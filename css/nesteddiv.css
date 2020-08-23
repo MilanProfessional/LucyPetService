@@ -1,0 +1,51 @@
+.logo {
+	height: 100px;
+	width: 25%;
+	background: green;
+	float: left;
+}
+
+.title {
+	/*outline: solid red 1px;*/
+	text-align: center;
+	height: 100px;
+	width: 50%;
+	background: green;
+	float: left;
+	
+}
+
+
+.activity {
+	/*outline: solid red 1px;*/
+	height: 100px;
+	width: 25%;
+	background: green;
+	float: left;
+	text-align: right;
+}
+
+.logo img {
+	width : auto;
+	height : auto;
+	max-height : 100%;
+	max-width : 100%;
+}
+
+.lucy {
+	font-size: 3.5vw;
+	font-family: "Hobo Std" , Aharoni , Brush Script Std , Impact;
+	text-decoration: none;
+}
+
+.activity a {
+	margin: 10px;
+	color: yellow;
+	text-decoration: none;
+}
+
+
+.lucy a{
+display:block;
+	color:white;
+}

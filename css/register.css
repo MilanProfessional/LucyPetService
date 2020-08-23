@@ -1,0 +1,35 @@
+#style {
+	margin: auto;
+	padding: 50px;
+}
+
+.div {
+	width: 500px;
+}
+
+.labelcolor {
+	color: red;
+}
+
+}
+.background{
+	background-image:URL("../img/background.jpg");
+	background-size:cover;
+background-repeat:none;
+	}
+	
+	.usext{
+		background-color:red;
+		color:white;
+		width:30%;
+	}
+	.usnotext{
+		background-color:blue;
+		width:24%;
+		color:white;
+	}
+
+	.have{
+		text-decoration:none;
+		color:white;
+	}

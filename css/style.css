@@ -1,0 +1,115 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-family: verdana;
+	paddin: 50px;
+}
+
+.main {
+	height: 100%;
+	width: 100%;
+}
+
+.header {
+	background: red;
+	height: 100px;
+	clear: both;
+	color: white;
+	margin: 5px;
+}
+.nav {
+	background: cyan;
+	height: 30px;
+	clear: right;
+	margin: 5px;
+}
+.link {
+	background: purple;
+	clear: left;
+	float: left;
+	height: 97%;
+	width: 23%;
+	margin: 20px;
+	padding-top:15px;
+
+}
+.content {
+	background: grey;
+	height: 100%;
+	margin: 5px;
+	padding-top:15px;
+}
+
+.main {
+	width: 100%;
+	height: 100%;
+}
+
+ul#navmenu {
+	list-style-type: none;
+	
+}
+
+ul#navmenu li {
+	width: 110px;
+	height: 30px;
+	text-align: center;
+	float: left;
+	margin-right: 4px;
+}
+
+ul#navmenu a {
+	text-decoration: none;
+	display: block;
+	width: 110px;
+	height: 30px;
+	line-height: 30px;
+	
+}
+
+.searchbutton {
+	height: 30px;
+	float: right;
+}
+
+.searchbox {
+	height: 30px;
+	float: right;
+}
+
+ul#navmenu a:hover {
+	background: red;
+}
+.clicked{
+	background-color:grey;
+}
+
+.first{
+	text-align:center;
+}
+
+.pet{
+	
+	background: purple;
+	clear: right;
+	float: right;
+	height: 100%;
+	margin-bottom:50px;
+	position:absolute;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+

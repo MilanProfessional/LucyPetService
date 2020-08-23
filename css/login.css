@@ -1,0 +1,36 @@
+body {
+	font-family: sans-serif;
+}
+
+
+.divlogin {
+	width: 19em;
+	padding-left: 10%;
+	padding-top:5%;
+}
+
+.textbox {
+	width: 20em;
+	height: 3em;
+	padding: 0px;
+	margin: 0px;
+}
+
+.button {
+	width: 18em;
+	height: 2em;
+	background: #3366cc;
+	color: white;
+	border: 1px solid #3366cc;	
+	text-decoration:none;
+}
+
+input[type='submit']:hover {
+	cursor: hand;
+}
+
+.background{
+	background-image:URL("../img/background.jpg");
+	background-size:cover;
+background-repeat:none;
+	}
